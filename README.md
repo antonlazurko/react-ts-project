@@ -1,1 +1,1 @@
-# TypeScript курс. Проект GitHub user finder
+# GitHub interface clone project
