@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './UserStat.module.scss';
 import { LocalGithubUser } from 'types';
 

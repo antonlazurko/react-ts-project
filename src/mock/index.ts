@@ -13,5 +13,4 @@ export const defaultUser: LocalGithubUser = {
   "followers": 2,
   "following": 1,
   "created": "2018-02-07T16:18:45Z",
-  id: 0
 }

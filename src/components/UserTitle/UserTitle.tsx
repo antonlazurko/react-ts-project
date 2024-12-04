@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './UserTitle.module.scss';
 import { LocalGithubUser } from 'types';
 

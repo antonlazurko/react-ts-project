@@ -1,1 +1,1 @@
-# GitHub interface clone project
+# GitHub developers finder project
